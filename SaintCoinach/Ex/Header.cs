@@ -28,6 +28,7 @@ namespace SaintCoinach.Ex {
                 7, Language.Korean /*"ko"*/
             }, {
                 8, Language.TraditionalChinese
+			}
         };
 
         #endregion
